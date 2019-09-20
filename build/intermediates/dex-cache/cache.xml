@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\9723008954934c9b1ac2fe2d5521af71ea5ff43b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_310f61ebc593ebc3bfbd968b15a43a2ec392a6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.2\33ee82e324f4b1e40167f3dc5e01234a1c5cab61\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\jsoup-1.10.2_febcbd3c6ff0768f173bf2140a0125f6516684d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\8c4cb0e7ca0af3569cab83211c706ad81d8a9c1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b020ced232b8c030ad8ffef70147dfd14025378">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_bb58e98cd76c13b31e8f00403aeb42be9c6e86ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.5\3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f\leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\leakcanary-analyzer-1.5_29c08cd8f4566528aa32cafa7dfb0f3e0a4adc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\4e4b5f25d4fa02204252b40aa3563fe72df842d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_72694a823b713a68294f7c15d23db6013ea9d1de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\2abb3f96b1f68fb2aaf1506b1144115b40e88713\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_b30515d4b2f69156d988515d7d9cac53cde838a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\info.guardianproject.netcipher\netcipher\2.0.0-alpha1\ae8a4b71384a385d70d0f461de0a3f1ff574993a\netcipher-2.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae8a4b71384a385d70d0f461de0a3f1ff574993a">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\netcipher-2.0.0-alpha1_a5e1ac9dc2fe3238acac8b8afd350816404afa07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\4247b4a70bc6443acfcb348bda42e57a15cb5f71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_51d74ff758947d27abedb5cd0d473b38a85878d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\1ca2ad84908c44eafe6e12ead2d97e322c61176e\output\jars\libs\i2p.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="868f13ec421e11bb79eccc3cfaa24400bf57ef7e">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\i2p_8e3f139ac23669be3b3112e55194aa2486466d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\418f213d3a4f30b19d2a23c177beca0ee179f625\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_1bae80f6fdfaeefdf41caded2f9ab4ef1c428eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\bd3509d2b90cba5cb6879dea2ebd70f5d5780682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_e1124a69e40cca41cfee8ce3d89053d1c9d43fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\62cea5f310188d45ad6d70fcea23d71d115e097f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_590789b32ce7ace66f86e0ac7f6c500f97385f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\dac82e9a59d6488cf43eaf8cc2f6a224a04818f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0488bc0911ea5670cab19e6884ce250e08c2fae6">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_426112a46042fe36393b2ed51b9dce2fa155cda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\09b54ad7ee4dd1982ba787dd27febbf6744c2d1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_1d170ad89f13c3c789e166e3f766a15cc6957c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\1ca2ad84908c44eafe6e12ead2d97e322c61176e\output\jars\libs\mstreaming.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f73135518008af1df0ba568cb949f3de46d13d3f">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\mstreaming_1408f231013eaebc959a46160dd5b196807d19cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\1ca2ad84908c44eafe6e12ead2d97e322c61176e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="559e1a0c338130aa76acd47266152350c23dc822">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_b0892e40fe5516f9846977a47bdfece3bafc666d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\butterknife-7.0.1_a111475162d6b3f9dbe8e4a4363fe607573827c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\e904f0074138d757b4cbc9f0b3ac64d8469968b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2c9faa3089f4bc0afa0a33aea9e144b7626124e">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_5c739c03b9be48fdf4928e147c5141e073381a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\1ca2ad84908c44eafe6e12ead2d97e322c61176e\output\jars\libs\streaming.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc55333f87ace83376e7490af57f61fd8c02aed">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\streaming_6f1e791c829f557a3bd6f7de223a4ddfe8682983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\b527529cc55ad17389eef4ffc9bf03ecda50861c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_8d8262a9f752a374e12831654909bf388c3d03d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\836394d453ffd2c2ea2ededfcd5afe77c8a86bbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb1b4b2f3ff7e6d0b33fdb6320818acef80338b3">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_4730a7f8fd0e74cb6e0a4966834eea94c3688a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\info.guardianproject.netcipher\netcipher-webkit\2.0.0-alpha1\4ce5fe84a2c159056426d323aae675384428048a\netcipher-webkit-2.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ce5fe84a2c159056426d323aae675384428048a">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\netcipher-webkit-2.0.0-alpha1_2cf27ff1d9f5a762bc0f15848a765c6f8562c500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\haha-2.0.3_b7623488a66b11f461f6f8eb9716af73c3bb5add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\6a9abcf5d2a5f06d482f61c4176fa02705e347e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_0b2c792dddecd9228229f767be3019b522de8efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.5\288101b16513158c2923ad3fb6161d1452b65e73\leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\leakcanary-watcher-1.5_38fa5b700fa4755a2c8a4128d861cb261bc668ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\dagger-2.0.2_44027aba416455e3ac5a0998dabef6575d8611cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\6bb82a82e18929d06ecb2eebf014b8cb592c1590\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_5e36e13e2f8e0c71b204964be18df06b71c4be33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\otto-1.3.8_ceb6c2dcaf501279571d288e96a27e9c4936b0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\3491e4a7524bba7e09eae709453e804c096adcbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_1f74a740373f536695d28d068050d432292adb68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\726c2c643a90ea8ba134ea5e7eff1f4242d340ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_1d458c64410ddc00d5f61dd05deae859889caf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.android\build-cache\024297420061e705ff7141e4237e8df8befadd1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\classes_aa350528491816167f6a888630fca6d63ca31752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\support-annotations-25.3.0_970e151d2f1775224f889f345c65a141ee1b8c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator.DESKTOP-9BD4MS9\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\System\tar\Lightning-Browser\app\build\intermediates\pre-dexed\lightningLite\debug\javax.inject-1_fa7c1ddda9e262d6a8ebdc5c1ff1c25a80975383.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: net.i2p.android:client:0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/1ca2ad84908c44eafe6e12ead2d97e322c61176e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/1ca2ad84908c44eafe6e12ead2d97e322c61176e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1ca2ad84908c44eafe6e12ead2d97e322c61176e/output/jars/libs/streaming.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1ca2ad84908c44eafe6e12ead2d97e322c61176e/output/jars/libs/i2p.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1ca2ad84908c44eafe6e12ead2d97e322c61176e/output/jars/libs/mstreaming.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.i2p.android/client/0.8/5f351f52f82801efdd82255f64274b37e2a2c5fa/client-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

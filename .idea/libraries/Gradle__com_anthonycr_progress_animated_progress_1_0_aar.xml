@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anthonycr.progress:animated-progress:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8c4cb0e7ca0af3569cab83211c706ad81d8a9c1e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8c4cb0e7ca0af3569cab83211c706ad81d8a9c1e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.anthonycr.progress/animated-progress/1.0/46233cf3b32f7fab12c3ad039b49dc895c216a0e/animated-progress-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
